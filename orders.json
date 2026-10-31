@@ -30,9 +30,10 @@
     "amount": 1367,
     "time": "2026/10/31 20:02:13",
     "ts": 1793448133769,
-    "status": "delivered",
-    "statusUpdatedAt": "2026/10/31 20:02:46",
+    "status": "done",
+    "statusUpdatedAt": "2026/10/31 20:03:59",
     "acceptedAt": "2026/10/31 20:02:25",
-    "deliveredAt": "2026/10/31 20:02:46"
+    "deliveredAt": "2026/10/31 20:02:46",
+    "doneAt": "2026/10/31 20:03:59"
   }
 ]
