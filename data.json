@@ -1081,14 +1081,15 @@
     "stat3Num": "3<em>h</em>",
     "stat3Label": "同城送达",
     "logo": "",
-    "logoPreset": 3,
+    "logoPreset": 2,
     "theme": {
       "red": "#c60c18"
-    }
+    },
+    "logoVer": 1793439201608
   },
   "shipping": {
     "freeShip": 99,
     "fee": 10
   },
-  "updatedAt": "2026-10-31T09:31:43.183Z"
+  "updatedAt": "2026-10-31T09:33:22.152Z"
 }
