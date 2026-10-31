@@ -1083,11 +1083,13 @@
     "logo": "",
     "theme": {
       "red": "#c60c18"
-    }
+    },
+    "logoPreset": 0,
+    "logoVer": 1793439584527
   },
   "shipping": {
     "freeShip": 99,
     "fee": 10
   },
-  "updatedAt": "2026-10-31T09:36:43.020Z"
+  "updatedAt": "2026-10-31T09:39:47.933Z"
 }
