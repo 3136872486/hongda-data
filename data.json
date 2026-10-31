@@ -1103,12 +1103,12 @@
     "theme": {
       "red": "#c60c18"
     },
-    "logoPreset": 0,
-    "logoVer": 1793439584527
+    "logoPreset": 1,
+    "logoVer": 1793439879284
   },
   "shipping": {
     "freeShip": 99,
     "fee": 10
   },
-  "updatedAt": "2026-10-31T09:41:07.862Z"
+  "updatedAt": "2026-10-31T09:44:40.752Z"
 }
