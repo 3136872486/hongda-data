@@ -1081,7 +1081,7 @@
     "stat3Num": "3<em>h</em>",
     "stat3Label": "同城送达",
     "logo": "",
-    "logoPreset": 0,
+    "logoPreset": 3,
     "theme": {
       "red": "#c60c18"
     }
@@ -1090,5 +1090,5 @@
     "freeShip": 99,
     "fee": 10
   },
-  "updatedAt": "2026-10-31T09:31:40.464Z"
+  "updatedAt": "2026-10-31T09:31:43.183Z"
 }
