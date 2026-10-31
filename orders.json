@@ -1,5 +1,29 @@
 [
   {
+    "no": "HD49008408",
+    "name": "王\"<b>强</b>",
+    "phone": "13800001111",
+    "addr": "<img src=x onerror=window.__XSS=1>",
+    "note": "",
+    "items": "锂电冲击钻 21V 双电池 无刷×23",
+    "lines": [
+      {
+        "id": "P201",
+        "name": "锂电冲击钻 21V 双电池 无刷",
+        "qty": 23,
+        "price": 468,
+        "unit": "台",
+        "img": "assets/img/products/P201.jpg",
+        "icon": "drill"
+      }
+    ],
+    "total": "¥10,764.00",
+    "amount": 10764,
+    "time": "2026/10/31 20:16:48",
+    "ts": 1793449008410,
+    "status": "new"
+  },
+  {
     "no": "HD48956647",
     "name": "李四",
     "phone": "13800009999",
