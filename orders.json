@@ -30,6 +30,8 @@
     "amount": 1367,
     "time": "2026/10/31 20:04:42",
     "ts": 1793448282012,
-    "status": "new"
+    "status": "accepted",
+    "statusUpdatedAt": "2026/10/31 20:04:53",
+    "acceptedAt": "2026/10/31 20:04:53"
   }
 ]
