@@ -21,7 +21,9 @@
     "amount": 468,
     "time": "2026/10/31 20:07:26",
     "ts": 1793448446051,
-    "status": "new"
+    "status": "accepted",
+    "statusUpdatedAt": "2026/10/31 20:08:26",
+    "acceptedAt": "2026/10/31 20:08:26"
   },
   {
     "no": "HD48437464",
