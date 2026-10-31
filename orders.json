@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "no": "HD47058722",
+    "name": "何小姐看好",
+    "phone": "17368518005",
+    "addr": "何小姐小脚裤",
+    "note": "",
+    "items": "全铜球阀 4分 加厚 内螺纹×1、锂电冲击钻 21V 双电池 无刷×1",
+    "lines": [
+      {
+        "id": "W501",
+        "name": "全铜球阀 4分 加厚 内螺纹",
+        "qty": 1,
+        "price": 34,
+        "unit": "个",
+        "img": "assets/img/products/W501.jpg",
+        "icon": "valve"
+      },
+      {
+        "id": "P201",
+        "name": "锂电冲击钻 21V 双电池 无刷",
+        "qty": 1,
+        "price": 468,
+        "unit": "台",
+        "img": "assets/img/products/P201.jpg",
+        "icon": "drill"
+      }
+    ],
+    "total": "¥502.00",
+    "amount": 502,
+    "time": "2026/10/31 19:44:18"
+  }
+]
