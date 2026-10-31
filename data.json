@@ -1055,7 +1055,7 @@
     "新客首单立减 10 元，凭此页到店自提再减 5 元"
   ],
   "site": {
-    "shopName": "宏达五金店",
+    "shopName": "柳新生活超市",
     "shopEn": "Hongda Hardware",
     "title": "宏达五金店 · 徐州铜山柳新镇五金杂货一站采购｜手动工具 · 电动工具 · 紧固件 · 水暖电工",
     "phone": "18552935969",
@@ -1077,7 +1077,7 @@
     "stat1Num": "60<em>+</em>",
     "stat1Label": "款常备现货",
     "stat2Num": "8<em>类</em>",
-    "stat2Label": "五金品类齐全",
+    "stat2Label": "生鲜品类齐全",
     "stat3Num": "3<em>h</em>",
     "stat3Label": "同城送达",
     "logo": "",
@@ -1090,5 +1090,5 @@
     "freeShip": 99,
     "fee": 10
   },
-  "updatedAt": "2026-10-31T09:27:16.393Z"
+  "updatedAt": "2026-10-31T09:27:20.426Z"
 }
