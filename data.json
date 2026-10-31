@@ -1029,7 +1029,7 @@
       "isNew": true,
       "name": "11",
       "cat": "tool",
-      "price": 1,
+      "price": 67,
       "icon": "wrench"
     }
   ],
@@ -1110,5 +1110,5 @@
     "freeShip": 99,
     "fee": 10
   },
-  "updatedAt": "2026-10-31T09:40:55.327Z"
+  "updatedAt": "2026-10-31T09:41:07.862Z"
 }
