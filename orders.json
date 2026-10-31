@@ -162,7 +162,9 @@
     "amount": 1367,
     "time": "2026/10/31 19:55:40",
     "ts": 1793447740940,
-    "status": "new"
+    "status": "accepted",
+    "statusUpdatedAt": "2026/10/31 19:59:08",
+    "acceptedAt": "2026/10/31 19:59:08"
   },
   {
     "no": "HD47058722",
