@@ -1012,25 +1012,6 @@
       "brand": "匠工",
       "sold": 286,
       "desc": "铝合金加厚踏步，防滑纹路；承重 150kg；折叠厚度仅 9cm，收纳不占地；家用换灯、登高必备。"
-    },
-    {
-      "img": "",
-      "old": 0,
-      "unit": "一",
-      "spec": "g",
-      "stock": 99,
-      "tags": [
-        "new"
-      ],
-      "brand": "宏达五金",
-      "sold": 0,
-      "desc": "店主新上架商品，详情请到店或电话咨询。",
-      "id": "C39652699",
-      "isNew": true,
-      "name": "11",
-      "cat": "tool",
-      "price": 67,
-      "icon": "wrench"
     }
   ],
   "categories": [
@@ -1108,5 +1089,5 @@
     "freeShip": 99,
     "fee": 10
   },
-  "updatedAt": "2026-10-31T11:40:04.250Z"
+  "updatedAt": "2026-11-02T07:26:37.257Z"
 }
